@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hr SYSTEM
+        "../XML/dom4j/src/hr.dtd"><!-- Human Resource Manegement System-->
+<hr>
+    <employee no="3301">
+        <name>Tom</name>
+        <age>31</age>
+        <salary>4000</salary>
+        <department>
+            <dname>Accounting</dname>
+            <address>xxxstreat-B103</address>
+        </department>
+    </employee>
+    <employee no="3302">
+        <name>Tim</name>
+        <age>32</age>
+        <salary>4300</salary>
+        <department>
+            <dname>Accounting</dname>
+            <address>xxxstreat-B106</address>
+        </department>
+    </employee>
+    <employee no="3303">
+        <name>Sarah</name>
+        <age>31</age>
+        <salary>4000</salary>
+        <department>
+            <dname>Accounting</dname>
+            <address>xxxstreat-B103</address>
+        </department>
+    </employee>
+    <employee no="3304">
+        <name>Katie</name>
+        <age>31</age>
+        <salary>4000</salary>
+        <department>
+            <dname>Accounting</dname>
+            <address>xxxstreat-B103</address>
+        </department>
+    </employee>
+    <employee no="3309">
+        <name>ZhangSan</name>
+        <age>31</age>
+        <salary>4000</salary>
+        <department>
+            <dname>Accounting</dname>
+            <address>xxxstreat-B103</address>
+        </department>
+    </employee>
+    <employee no="3310">
+        <name>Lisi</name>
+        <age>23</age>
+        <salary>3000</salary>
+        <department>
+            <dname>Engineering</dname>
+            <address>xxxstreat-B104</address>
+        </department>
+    </employee>
+    <employee no="3311">
+        <name>Tim</name>
+        <age>33</age>
+        <salary>3600</salary>
+        <department>
+            <dname>HR</dname>
+            <address>XXbuilding</address>
+        </department>
+    </employee>
+</hr>
